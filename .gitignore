@@ -1,0 +1,7 @@
+# 받은 시세·지수 데이터는 올리지 않는다 (README 재현 참고)
+batto/*.csv
+batto/*.pkl
+batto/yf_*
+emh/data/
+__pycache__/
+.ipynb_checkpoints/
